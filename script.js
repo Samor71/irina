@@ -73,7 +73,7 @@ class Canvas {
     loadAudio() {
         this.audio.src = "assets/Sex.mp3"; // Укажите путь к вашему файлу музыки
         this.audio.loop = true; // Включаем зацикливание музыки
-        this.audio.volume = 0.5; // Устанавливаем громкость (от 0 до 1)
+        this.audio.volume = 0.3; // Устанавливаем громкость (от 0 до 1)
     }
 
     // Метод для добавления обработчика клика
